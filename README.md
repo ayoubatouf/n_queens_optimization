@@ -6,7 +6,6 @@ The optimized version of the N-Queens problem solver enhances performance throug
 
 
 ##  Number of distinct solutions for the N-Queens problem
-<div align="center">
 
 | N   | Number of Solutions |
 | --- | ------------------- |
@@ -30,7 +29,6 @@ The optimized version of the N-Queens problem solver enhances performance throug
 | 18  | 666,090,624         |
 | 19  | 4,968,057,848       |
 | 20  | 39,029,188,884      |
-</div>
 
 ## Usage
 
