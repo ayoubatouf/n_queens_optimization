@@ -49,6 +49,6 @@ Replace `N` with the desired value.
 ## The symmetry suggests that solutions can be derived from reflections/rotations of existing ones (reducing unique cases to 12).
 
 <div align="center">
-  <img src="nqueens_heatmap.png" />
+  <img src="nqueens_heatmap.png" style="width: 300px; height: auto;" />
 </div>
 
